@@ -1,1 +1,1 @@
-![user/register](/images/user-register.png?raw=true)
+![user/register](/images/user-register.PNG?raw=true)
