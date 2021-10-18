@@ -3,5 +3,5 @@
 ![/log](/images/log.Get.PNG?raw=true)
 ![/log](/images/log.post.PNG?raw=true)
 ![/log/id](/images/log.Get.id.PNG?raw=true)
-![/log/id](/images/put-update.PNG?raw=true)
+![/log/id](/images/put-udpate.PNG?raw=true)
 ![/log/id](/images/delete-delete.PNG?raw=true)
